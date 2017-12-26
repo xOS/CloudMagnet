@@ -1,0 +1,53 @@
+#hero {
+	background-color: $blue;
+	display: none;
+	text-align: center;
+}
+
+#output video {
+	width: 100%;
+}
+
+#progressBar {
+	height: 5px;
+	width: 0%;
+	background-color: $red-1;
+	transition: width .4s ease-in-out;
+}
+
+#status {
+	color: $white;
+	padding: $spacing-unit / 2;
+
+	> div {
+		margin-bottom: $spacing-unit / 2;
+	}
+
+	> div:first-child {
+		overflow-x: auto;
+	}
+
+	.tooltip {
+		margin: initial;
+	}
+}
+
+#status code {
+	color: $blue;
+}
+
+body.is-seed .show-seed {
+	display: inline;
+}
+
+body.is-seed .show-leech {
+	display: none;
+}
+
+.show-seed {
+	display: none;
+}
+
+.is-seed #hero {
+	transition: .5s .5s background-color ease-in-out;
+}

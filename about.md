@@ -1,4 +1,8 @@
-# Magnet Player
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 **Magnet Player** is a site where anyone can stream torrents directly from their browser.
 

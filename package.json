@@ -1,0 +1,26 @@
+{
+  "name": "Magnet Player",
+  "description": "Video streaming directly from your browser",
+  "version": "1.50",
+  "author": {
+    "name": "Nanpay",
+    "email": "service@vmgirls.com",
+    "url": "https://www.vmgirls.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/Nanpay/magnet-player/issues"
+  },
+  "dependencies": {
+    "clipboard": "^1.5.12",
+    "moment": "^2.15.0",
+    "pretty-bytes": "^4.0.2"
+  },
+  "homepage": "https://www.vmgirls.com/",
+  "keywords": [
+    "data channel",
+    "file transfer",
+    "p2p",
+    "webrtc"
+  ],
+  "license": "MIT"
+}
