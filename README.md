@@ -21,5 +21,5 @@
 你可以订阅这个问题 的更新。
 
 磁力云播
-© 2018 唯美女生
+© 2018 <a href="http://www.vmgirls.com" target="_blank">唯美女生</a>
 service@vmgirls.com
