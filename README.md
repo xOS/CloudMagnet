@@ -1,5 +1,5 @@
 关于
-<a href="http://magnet.vmgirls.com" target="_blank">在线磁力云播</a> 一个在任何地方都能解析磁力链接和种子文件的网站
+<a href="https://magnet.nange.cn" target="_blank">在线磁力云播</a> 一个在任何地方都能解析磁力链接和种子文件的网站
 
 它使用了 WebTorrent - 种子文件和磁力链接解析客户端的网站 WebTorrent 使用了 WebRTC进行真正的点对点传输。不需要浏览器插件，扩展或程序安装。
 
@@ -20,6 +20,6 @@
 
 你可以订阅这个问题 的更新。
 
-<a href="http://magnet.vmgirls.com" target="_blank">磁力云播</a>
-© 2018 <a href="http://www.vmgirls.com" target="_blank">唯美女生</a>
-service@vmgirls.com
+<a href="https://magnet.nange.cn" target="_blank">磁力云播</a>
+© 2018 <a href="https://www.nange.cn" target="_blank">楠格</a>
+im@nan.ge
