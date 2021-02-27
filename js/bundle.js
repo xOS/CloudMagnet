@@ -109,7 +109,7 @@ function onTorrent(torrent) {
 	$streamedFileName.html(largestFile.name)
 
 	// Update clipboard share url
-	$('#share-url').val('https://magnet.vmgirls.com/#' + torrent.infoHash);
+	$('#share-url').val('https://magnet.nange.cn/#' + torrent.infoHash);
 
 	// Stream the file in the browser
 	largestFile.appendTo('#output')

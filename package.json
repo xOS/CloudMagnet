@@ -1,21 +1,21 @@
 {
-  "name": "Magnet Player",
+  "name": "CloudMagnet",
   "description": "Video streaming directly from your browser",
   "version": "1.50",
   "author": {
-    "name": "Nanpay",
-    "email": "service@vmgirls.com",
-    "url": "https://www.vmgirls.com/"
+    "name": "佩佩",
+    "email": "im@nan.ge",
+    "url": "http://nan.ge"
   },
   "bugs": {
-    "url": "https://github.com/Nanpay/magnet-player/issues"
+    "url": "https://github.com/XOS/CloudMagnet/issues"
   },
   "dependencies": {
     "clipboard": "^1.5.12",
     "moment": "^2.15.0",
     "pretty-bytes": "^4.0.2"
   },
-  "homepage": "https://www.vmgirls.com/",
+  "homepage": "http://nan.ge/",
   "keywords": [
     "data channel",
     "file transfer",
